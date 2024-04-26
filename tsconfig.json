@@ -19,7 +19,7 @@
     "allowUnreachableCode": false,
     "removeComments": false
   },
-  "include": [
+  "include":[
     "src/**/*"
   ],
   "exclude": [
