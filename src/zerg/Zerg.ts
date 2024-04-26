@@ -68,8 +68,7 @@ interface ParkingOptions {
 
 interface FleeOptions {
 	dropEnergy?: boolean;
-	invalidateTask?: boolean;
-}
+	invalidateTask?: boolean;}
 
 const RANGES = {
 	BUILD   : 3,
